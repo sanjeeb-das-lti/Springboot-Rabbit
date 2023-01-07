@@ -20,4 +20,4 @@ Run command > rabbitmq-plugins enable rabbitmq_management
 Open browser and enter http://localhost:15672/ to redirect to RabbitMQ Dashboard
 Also we can Open it with IP Address http://127.0.0.1:15672
 Login page default username and password: guest
-After successfully login you should see RabbitMQ Home page!
+After successfully login you should see RabbitMQ Home page!!
